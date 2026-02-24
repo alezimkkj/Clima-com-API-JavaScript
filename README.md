@@ -31,11 +31,3 @@ Aplicação web de previsão do tempo desenvolvida com HTML, CSS e JavaScript pu
 ## ⚠️ Observação
 
 Este projeto utiliza uma chave de API gratuita apenas para fins educacionais.
-
-## 📷 Preview
-
-(Coloque aqui um print do projeto)
-
----
-
-Desenvolvido por Alessandro 🚀
